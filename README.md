@@ -1,7 +1,7 @@
 # compbio-walkthroughs
 A collection of Python notebooks exploring machine learning techniques for biomolecular design
 
-  Tutorial 01 – Bigram-Based Protein Sequence Generation
+  **01_bigram – Bigram-Based Protein Sequence Generation**
   Can simple pairwise statistics create new protein sequences?
   In this quickstart tutorial, we build a generative model of proteins using nothing more than counts of amino acid pairs—a bigram model.
   
