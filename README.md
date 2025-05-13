@@ -5,6 +5,7 @@ A collection of Python notebooks exploring machine learning techniques for biomo
   
   Can simple pairwise statistics create new protein sequences?
   In this quickstart tutorial, we build a generative model of proteins using nothing more than counts of amino acid pairs—a bigram model.
+  We then visualize predicted 3D protein structures with AlphaFold3.
   
   We walk through three core stages:
   
