@@ -7,13 +7,13 @@ A collection of Python notebooks exploring machine learning techniques for biomo
   
   We walk through three core stages:
   
-    **1. Data Extraction**
+    1. **Data Extraction**
   
       - Download biological sequence data
   
       - Parse amino acid sequences
   
-    **2. Bigram Model Learning**
+    2. **Bigram Model Learning**
   
       - Map amino acids to integers (and back)
   
@@ -21,7 +21,7 @@ A collection of Python notebooks exploring machine learning techniques for biomo
   
       - Normalize counts into probabilities
   
-    **3. Sequence Generation & Structure Prediction**
+    3. **Sequence Generation & Structure Prediction**
   
       - Sample new amino acid chains using the bigram model
   
