@@ -29,4 +29,4 @@ A collection of Python notebooks exploring machine learning techniques for biomo
   
   This tutorial is beginner-friendly, code-first, and built for fast iteration—ideal for anyone exploring computational protein design for the first time.
 
-  Click **Open in Colab** in **01-bigram.ipynb** to run the code in your browser.
+  Click **Open in Colab** in **01_bigram.ipynb** to run the code in your browser.
